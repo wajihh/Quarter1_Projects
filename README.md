@@ -1,2 +1,2 @@
 # Quarter1_Projects
- End of course projects for submission
+ Four end of quarter 1 course projects for submission, completed successfully, taking help from chatgpt.
